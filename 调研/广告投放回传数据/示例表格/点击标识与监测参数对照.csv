@@ -1,0 +1,6 @@
+﻿平台,标识名,出现位置,广告主用途,是否等于用户身份,保留建议
+小红书,click_id,落地页URL,回传表单/深转,否,与线索ID、会话ID一起存
+巨量引擎,clickid,落地页URL自动拼接,事件管理回传 callback,否,与订单号映射
+巨量引擎,__CALLBACK_PARAM__,APP监测链接,监测服务归因,否,APP场景
+TikTok,ttclid,落地页URL自动追加,Pixel / Events API,否,TTL对齐归因窗口
+Google,gclid,自动标记后的落地页,转化导入、GA4、click_view,否,热数据约90天

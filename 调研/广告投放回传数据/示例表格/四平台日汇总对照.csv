@@ -1,0 +1,5 @@
+﻿平台,日期,广告结构主键示例,花费原币,币种,展现,点击字段,点击,平台转化字段,平台转化,一方订单或线索,点击标识,归因备注
+小红书聚光,2026-08-20,计划ID=计划A,12480,CNY,186420,点击,7256,私信开口+表单,142开口 / 41表单,CRM线索41条,click_id,私信开口多按点击后24h
+巨量引擎,2026-08-20,project+promotion,28650,CNY,412800,click_cnt,9870,convert_cnt,186,店铺订单需自建回传,clickid / CALLBACK_PARAM,转化目标以external_action为准
+TikTok Ads,2026-08-20,campaign_id=C-1001,1840.50,USD,220400,clicks_destination,3310,conversions,96,独立站订单96需核对,ttclid,默认常见7d click+1d view
+Google Ads,2026-08-20,campaign_id=111,724.12,USD,9120,clicks,842,conversions / all_conversions,118 / 131,GA4/店铺订单,gclid,Conversions不含全部转化动作

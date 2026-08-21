@@ -1,0 +1,4 @@
+﻿date,customer_id,campaign_id,campaign_name,campaign_type,clicks,impressions,ctr,average_cpc,cost,conversions,all_conversions,cost_per_conversion,conversions_value,view_through_conversions,currency,attribution_model
+2026-08-20,123-456-7890,111,Brand Search - US,SEARCH,842,9120,9.23%,0.86,724.12,118,131,6.14,8420.0,4,USD,DATA_DRIVEN
+2026-08-20,123-456-7890,222,Shopping - Best sellers,SHOPPING,1260,88040,1.43%,0.41,516.6,74,81,6.98,5310.5,9,USD,DATA_DRIVEN
+2026-08-20,123-456-7890,333,YouTube - Product demo,VIDEO,210,156000,0.13%,0.22,462.0,19,27,24.32,980.0,41,USD,DATA_DRIVEN

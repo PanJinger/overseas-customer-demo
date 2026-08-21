@@ -1,0 +1,4 @@
+﻿stat_time_day,advertiser_id,campaign_id,campaign_name,objective,cost_usd,impressions,clicks_destination,clicks_all,ctr_destination,cpc_destination,conversions,cost_per_conversion,roas,video_views_6s,reach,currency,attribution_window
+2026-08-20,TT-7788,C-1001,US-Shop-Purchase-TOFU,WEB_CONVERSIONS,1840.5,220400,3310,4020,1.50%,0.56,96,19.17,3.42,48100,91200,USD,7d click / 1d view
+2026-08-20,TT-7788,C-1002,UK-Lead-Form-Retarget,LEAD,620.0,44120,980,1210,2.22%,0.63,54,11.48,,12600,19800,GBP,14d click / 1d view
+2026-08-20,TT-7788,C-1003,SEA-SparkAds-Awareness,REACH,410.2,98000,720,890,0.73%,0.57,12,34.18,1.1,35200,54000,USD,7d click / 1d view
